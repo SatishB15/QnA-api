@@ -1,0 +1,28 @@
+{
+    "QnA": [
+        {
+            "id": 0,
+            "question": "what is cryptocurrency??",
+            "answere": "it is digital currency",
+            "link": "www.google.com"
+        },
+        {
+            "id": 1,
+            "question": "what is cryptocurrency??",
+            "answere": "it is digital currency",
+            "link": "www.google.com"
+        },
+        {
+            "id": 2,
+            "question": "what is cryptocurrency??",
+            "answere": "it is digital currency",
+            "link": "www.google.com"
+        },
+        {
+            "id": 3,
+            "question": "what is cryptocurrency??",
+            "answere": "it is digital currency",
+            "link": "www.google.com"
+        }
+    ]
+}
