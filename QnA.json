@@ -2,26 +2,26 @@
     "QnA": [
         {
             "id": 0,
-            "question": "what is cryptocurrency??",
+            "question": "What are cryptocurrencies?",
             "answere": "it is digital currency",
-            "link": "www.google.com"
+            "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp"
         },
         {
             "id": 1,
-            "question": "what is cryptocurrency??",
-            "answere": "it is digital currency",
+            "question": "How are cryptocurrency transactions recorded? ",
+            "answere": "Cryptocurrency transactions are recorded on a shared, digital ledger called a blockchain. This is decentralized technology, spread across many computers, that records every transaction",
             "link": "www.google.com"
         },
         {
             "id": 2,
-            "question": "what is cryptocurrency??",
-            "answere": "it is digital currency",
+            "question": "Can cryptocurrencies fail?",
+            "answere": "Yes. It is estimated that close to 2,000 cryptocurrencies have failed. This is for a variety of reasons: lack of funding at start and after launch, failure to evolve, and a few were outright frauds. Many of the failures happened during the initial coin offering boom of 2017–2018.",
             "link": "www.google.com"
         },
         {
             "id": 3,
-            "question": "what is cryptocurrency??",
-            "answere": "it is digital currency",
+            "question": "What is a crypto wallet?",
+            "answere": "Simply put, crypto wallets are places to store digital assets more securely than just on an exchange.  You hold your wallet via an exchange account, custody wallet, or outside of the exchange. You can establish an online or “hot” wallet that is internet connected—to your desktop, table or mobile phone. There is also the option to store on a device that is not connected to the internet (“cold” wallet). Cold wallets are the most secure way to store your cryptocurrency, but they are meant for longer-term holdings as they are not connected to the internet. With cold storage, you must remember your private keys (identifier number for your cryptocurrency).           ",
             "link": "www.google.com"
         }
     ]
